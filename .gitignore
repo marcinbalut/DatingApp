@@ -1,1 +1,3 @@
 .vscode
+DatingApp.API/datingapp.db-shm
+DatingApp.API/datingapp.db-wal
